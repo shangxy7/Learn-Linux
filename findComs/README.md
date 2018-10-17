@@ -1,4 +1,4 @@
-abstract : sometimes we have to study some talented works wrote by f77. while, an eccentric argument in the common block is really an pain for us to understand its usage in the code. This little tool can help the coders to
+abstract : sometimes we have to study some talented works written by f77. while, an eccentric argument in the common block is really an pain for us to understand its usage in the code. This little tool can help the coders to
 
 - list which arguments in the common block is used in a .f file
 - and count when the value changed
